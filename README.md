@@ -1,10 +1,7 @@
 # Hi there, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 
-A creative Mobile App Developer on a mission to craft apps that combine clean code, smart design, and a touch of joy.  
+*A creative Mobile App Developer on a mission to craft apps that combine clean code, smart design, and a touch of joy.*  
 
-<br/>
-
-## ✨ My Journey  
 
 Before I wrote my first line of code, I was always drawn to technology. I enjoyed exploring software, learning how different programs worked, and figuring out solutions through trial and error. That natural curiosity and technical mindset eventually set me on the path I’m on today.
 
