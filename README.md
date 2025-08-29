@@ -1,7 +1,8 @@
-# Hi there, I'm Alex 👋  
+# Hi there, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+
 A creative Mobile App Developer on a mission to craft apps that combine clean code, smart design, and a touch of joy.  
 
----
+<br/>
 
 ## ✨ My Journey  
 
@@ -9,7 +10,7 @@ Before I wrote my first line of code, I was always drawn to technology. I enjoye
 
 After a few detours and explorations, I've found my true path: software development with a mobile-first mindset. I'm currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively.
 
----
+<br/>
 
 ## 🚀 What Drives Me 
 
@@ -18,7 +19,7 @@ After a few detours and explorations, I've found my true path: software developm
 - 🤝 A collaborative spirit that thrives in teams 
 - 🌍 Bonus level: Native German, fluent in English & Spanish  
 
----
+<br/>
 
 ## 🚀 Projects & Highlights  
 
@@ -27,7 +28,7 @@ After a few detours and explorations, I've found my true path: software developm
 - 🎮 **Guardians of the Galaxy Game** – console project (concept & programming)  
 - 📱 Several iOS & Android apps built during my training  
 
----
+<br/>
 
 ## 💻 Tech Stack  
 
@@ -49,13 +50,13 @@ After a few detours and explorations, I've found my true path: software developm
   Agile Development • MVVM • Clean Architecture • UX/UI Principles
  
 
----
+<br/>
 
 ## 🌐 Let’s Connect  
 - 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
 - 🌍 Portfolio coming soon 
 
----
+<br/>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjaegerpena&layout=compact&theme=tokyonight)
 
