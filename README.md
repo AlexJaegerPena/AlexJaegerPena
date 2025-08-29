@@ -26,7 +26,7 @@ After a few detours and explorations, I've found my true path: software developm
 
 - 🌿 **Plantastic** – iOS app for plant care (Swift, SwiftUI, Perenual API)  
 - 🎮 **Guardians of the Galaxy Game** – console project (concept & programming)  
-- 📱 Several iOS & Android apps built during my training  
+- 📱 **Other Apps** – Several iOS, Android, and web apps (JavaScript & React) built individually and in team projects during my training
 
 <br/>
 
