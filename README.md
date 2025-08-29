@@ -14,7 +14,7 @@ After a few detours and explorations, I've found my true path: software developm
 - 📚 A curious mind that never stops learning  
 - 🧩 A structured approach to code & design  
 - 🤝 A collaborative spirit that thrives in teams 
-- 🌍 Bonus level: Native German, fluent in English & Spanish  
+- 🌍 Bonus level: Native German, native Spanisch & fluent in English
 
 <br/>
 
