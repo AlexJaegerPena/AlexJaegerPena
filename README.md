@@ -31,14 +31,12 @@ After a few detours and explorations, I've found my true path: software developm
 ## 💻 Tech Stack  
 
 - **🖥️ Languages & Frameworks:**  
-  Swift • Kotlin • SwiftUI • Jetpack Compose • HTML/CSS • React • JavaScript
+  Swift • Kotlin • SwiftUI • Jetpack Compose • HTML/CSS
   <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
     <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>
     <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="30" height="30"/>
   </div>
 
 - **🛠 Tools & Platforms:**
