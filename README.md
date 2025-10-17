@@ -56,5 +56,7 @@ After a few detours and explorations, I've found my true path: software developm
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=alexjaegerpena&layout=compact&theme=tokyonight)
 
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJaegerPena&theme=noctis_minimus)
+
 [![GitHub Streak](https://streak-stats.demolab.com?user=alexjaegerpena&theme=dark)](https://git.io/streak-stats)
 
