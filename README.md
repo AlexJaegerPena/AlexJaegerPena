@@ -51,12 +51,12 @@ Xcode · Android Studio · Firebase · GitHub · Postman
 
 ### 🎨 Selected Projects  
 
-   </br>
    
 ![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)   
  🌍 Android app for environmental data · *Jetpack Compose · REST API · Clean UI*   
  
-   </br>
+   </br></br>
+
 
 [![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=leaflet&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
 🌿 iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*
