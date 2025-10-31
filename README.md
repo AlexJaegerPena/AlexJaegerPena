@@ -2,7 +2,7 @@
 
 **Mobile App Developer** • **UI Enthusiast** • **Problem Solver**
 
-I enjoyed exploring software, learning how different programs worked, and figuring out solutions through trial and error. That natural curiosity and technical mindset eventually set me on the path I’m on today.
+Before I wrote my first line of code, I was always drawn to technology. I enjoyed exploring software, learning how different programs worked, and figuring out solutions through trial and error. That natural curiosity and technical mindset eventually set me on the path I’m on today.
 
 After a few detours and explorations, I've found my true path: software development with a mobile-first mindset. I'm currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively.
 
