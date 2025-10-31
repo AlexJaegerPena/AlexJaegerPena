@@ -27,34 +27,41 @@ I love creating interfaces that feel natural, intuitive, and visually consistent
 | **Design** | UX/UI · Prototyping · Affinity · Figma |
 | **Architecture** | MVVM · Clean Architecture · REST APIs |
 | **Tools** | Xcode · Android Studio · Firebase · GitHub · Postman |
-
+<br>
 <div align="center">
   <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" title="Swift"/>
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin"/>
   <img src="https://img.shields.io/badge/Figma-9B51E0?style=for-the-badge&logo=figma&logoColor=white" title="Figma"/>
   <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" title="Android Studio"/>
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" title="Xcode"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" title="Firebase"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" title="Postman"/>
+  <img src="https://img.shields.io/badge/Affinity-7F8C8D?style=for-the-badge&logo=affinity&logoColor=white" title="Affinity"/>
+  
 </div>
 
 ---
 
 ### 🎨 Selected Projects  
- </br>
 
+   </br>
+   
 ![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)   
+
  🌍 Android app for environmental data · *Jetpack Compose · REST API · Clean UI*   
  
-   </br></br>
- 
-[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)   
-🌿 iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*  
+   </br>
+
+[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=leaflet&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
+
+🌿 iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*
 
 <img src="https://github.com/user-attachments/assets/f899d5f9-a409-4280-a2b1-89d7b7119ffd" width="400" alt="Projektbild"/>
 
    </br></br>
 
    
-[![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study) 
+[![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-339999?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study) 
 
 ✈️ Travel app concept & UX prototype · *SwiftUI · Design-first approach*  
 
@@ -64,8 +71,10 @@ I love creating interfaces that feel natural, intuitive, and visually consistent
    </br></br>
  
 [![Guardians Game](https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/RPG-Console-Game)   
+
 🎮 Console-based game · *Core logic, storytelling & design balance*  
- 
+
+<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="400" alt="Bildschirmfoto 2025-07-09 um 23 58 33" />
 
   
 ---
