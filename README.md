@@ -39,82 +39,20 @@ I love creating interfaces that feel natural, intuitive, and visually consistent
 ---
 
 ### 🎨 Selected Projects  
+ </br>
 
-
-<style>
-  .project-link {
-    position: relative;
-    display: inline-block;
-    margin: 10px;
-    text-decoration: none;
-  }
-
-  .project-link .tooltip {
-    visibility: hidden;
-    background-color: #333;
-    color: #fff;
-    text-align: center;
-    border-radius: 6px;
-    padding: 6px 10px;
-    position: absolute;
-    z-index: 1;
-    bottom: 125%; /* Position above the badge */
-    left: 50%;
-    transform: translateX(-50%);
-    opacity: 0;
-    transition: opacity 0.3s;
-    width: max-content;
-    max-width: 250px;
-    font-size: 12px;
-  }
-
-  .project-link:hover .tooltip {
-    visibility: visible;
-    opacity: 1;
-  }
-</style>
-
-<div align="center">
-  <a class="project-link" href="https://github.com/AlexJaegerPena/GAIA-LAB">
-    <span class="tooltip">Android app for environmental data · Jetpack Compose · REST API</span>
-    <img src="https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=google-earth&logoColor=white" alt="GAIA LAB"/>
-  </a>
-
-  <a class="project-link" href="https://github.com/AlexJaegerPena/Plantastic-PlantBuddy">
-    <span class="tooltip">iOS app for plant care · SwiftUI · Playful & intuitive UI/UX</span>
-    <img src="https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=leaflet&logoColor=white" alt="Plantastic"/>
-  </a>
-
-  <a class="project-link" href="https://github.com/AlexJaegerPena/Vaya-Case-Study">
-    <span class="tooltip">Travel app concept · SwiftUI · Design-first UX prototype</span>
-    <img src="https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=tripadvisor&logoColor=white" alt="Vaya Travel"/>
-  </a>
-
-  <a class="project-link" href="https://github.com/AlexJaegerPena/RPG-Console-Game">
-    <span class="tooltip">Console-based RPG · Storytelling · Core logic & design balance</span>
-    <img src="https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=steam&logoColor=white" alt="Guardians Game"/>
-  </a>
-</div>
-
-
-- 🌍 **[GAIA LAB]**  
-  Android app for environmental data · *Jetpack Compose · REST API · Clean UI*   
-![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)
-  
-
-- 🌿 **[Plantastic](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)**  
-  iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*  
-  [![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)
-
-
-  
-- ✈️ **[Vaya Travel](https://github.com/AlexJaegerPena/Vaya-Case-Study)**  
-  Travel app concept & UX prototype · *SwiftUI · Design-first approach*  
- [![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study)
-
-- 🎮 **[Guardians of the Galaxy RPG](https://github.com/AlexJaegerPena/RPG-Console-Game)**  
-  Console-based game · *Core logic, storytelling & design balance*  
-  [![Guardians Game](https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/RPG-Console-Game)
+![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)   
+ 🌍 Android app for environmental data · *Jetpack Compose · REST API · Clean UI*   
+ </br>
+[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)   
+🌿 iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*  
+   </br>
+[![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
+✈️ Travel app concept & UX prototype · *SwiftUI · Design-first approach*  
+ </br>
+[![Guardians Game](https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/RPG-Console-Game)   
+🎮 Console-based game · *Core logic, storytelling & design balance*  
+ 
 
   
 ---
