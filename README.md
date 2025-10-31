@@ -1,60 +1,136 @@
-# Hi there, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+## Hi, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
 
-*A creative Mobile App Developer on a mission to craft apps that combine clean code, smart design, and a touch of joy.*  
+**Mobile App Developer** • **UI Enthusiast** • **Problem Solver**
 
-
-Before I wrote my first line of code, I was always drawn to technology. I enjoyed exploring software, learning how different programs worked, and figuring out solutions through trial and error. That natural curiosity and technical mindset eventually set me on the path I’m on today.
+I enjoyed exploring software, learning how different programs worked, and figuring out solutions through trial and error. That natural curiosity and technical mindset eventually set me on the path I’m on today.
 
 After a few detours and explorations, I've found my true path: software development with a mobile-first mindset. I'm currently sharpening my skills at Syntax Institut (2024–2025), focusing on full-stack mobile development with a heart for sleek UX and bulletproof architecture. iOS and Android? I speak both natively.
 
-<br/>
+I love creating interfaces that feel natural, intuitive, and visually consistent — blending design thinking with development precision.
 
-## 🚀 What Drives Me 
+---
 
-- 📚 A curious mind that never stops learning  
-- 🧩 A structured approach to code & design  
-- 🤝 A collaborative spirit that thrives in teams 
-- 🌍 Bonus level: Native German, native Spanisch & fluent in English
+### 🚀 What Drives Me 
 
-<br/>
+- A curious mind that never stops learning  
+- A structured approach to code & design  
+- A collaborative spirit that thrives in teams 
+- Bonus level: Native German, native Spanish & fluent in English
 
-## 🚀 Projects & Highlights  
+---
+
+### 🧠 Core Skills
+
+| Area | Highlights |
+|------|-------------|
+| **Languages** | Swift · Kotlin · SwiftUI · Jetpack Compose |
+| **Design** | UX/UI · Prototyping · Affinity · Figma |
+| **Architecture** | MVVM · Clean Architecture · REST APIs |
+| **Tools** | Xcode · Android Studio · Firebase · GitHub · Postman |
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Swift-F05138?style=for-the-badge&logo=swift&logoColor=white" title="Swift"/>
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin"/>
+  <img src="https://img.shields.io/badge/Figma-9B51E0?style=for-the-badge&logo=figma&logoColor=white" title="Figma"/>
+  <img src="https://img.shields.io/badge/AndroidStudio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white" title="Android Studio"/>
+  <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=xcode&logoColor=white" title="Xcode"/>
+</div>
+
+---
+
+### 🎨 Selected Projects  
 
 
-- 🌿 **[Plantastic](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)** – iOS app for plant care (Swift, SwiftUI, Perenual API)
-- 🎮 **[Guardians of the Galaxy Game](https://github.com/AlexJaegerPena/RPG-Console-Game)** – console project (concept & programming)  
-- ✈️ **[Vaya Travel](https://github.com/AlexJaegerPena/Vaya-Case-Study)** – case study of a travel app concept and prototype for iOS  
-- 📱 **Other Apps** – Several iOS, Android, and web apps (JavaScript & React) built individually and in team projects during my training
+<style>
+  .project-link {
+    position: relative;
+    display: inline-block;
+    margin: 10px;
+    text-decoration: none;
+  }
 
-<br/>
+  .project-link .tooltip {
+    visibility: hidden;
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    border-radius: 6px;
+    padding: 6px 10px;
+    position: absolute;
+    z-index: 1;
+    bottom: 125%; /* Position above the badge */
+    left: 50%;
+    transform: translateX(-50%);
+    opacity: 0;
+    transition: opacity 0.3s;
+    width: max-content;
+    max-width: 250px;
+    font-size: 12px;
+  }
 
-## 💻 Tech Stack  
+  .project-link:hover .tooltip {
+    visibility: visible;
+    opacity: 1;
+  }
+</style>
 
-- **🖥️ Languages & Frameworks:**  
-  Swift • Kotlin • SwiftUI • Jetpack Compose • HTML/CSS
-  <div style="display: flex; gap: 30px; justify-content: center; flex-wrap: wrap;">
-    <img src="https://github.com/devicons/devicon/blob/master/icons/swift/swift-original.svg" title="Swift" alt="Swift" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML" alt="HTML" width="30" height="30"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" title="CSS" alt="CSS" width="30" height="30"/>
-  </div>
+<div align="center">
+  <a class="project-link" href="https://github.com/AlexJaegerPena/GAIA-LAB">
+    <span class="tooltip">Android app for environmental data · Jetpack Compose · REST API</span>
+    <img src="https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=google-earth&logoColor=white" alt="GAIA LAB"/>
+  </a>
 
-- **🛠 Tools & Platforms:**
-  Xcode • Android Studio • Figma • Firebase • REST APIs • Git/GitHub • Node.js • Postman • Figma • Canva • Affinity Designer • Affinity Photo • 3Ds Studio Max • Adobe Photoshop • SAP
+  <a class="project-link" href="https://github.com/AlexJaegerPena/Plantastic-PlantBuddy">
+    <span class="tooltip">iOS app for plant care · SwiftUI · Playful & intuitive UI/UX</span>
+    <img src="https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=leaflet&logoColor=white" alt="Plantastic"/>
+  </a>
 
-- **🎯 Practices:**  
-  Agile Development • MVVM • Clean Architecture • UX/UI Principles
- 
+  <a class="project-link" href="https://github.com/AlexJaegerPena/Vaya-Case-Study">
+    <span class="tooltip">Travel app concept · SwiftUI · Design-first UX prototype</span>
+    <img src="https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=tripadvisor&logoColor=white" alt="Vaya Travel"/>
+  </a>
 
-<br/>
+  <a class="project-link" href="https://github.com/AlexJaegerPena/RPG-Console-Game">
+    <span class="tooltip">Console-based RPG · Storytelling · Core logic & design balance</span>
+    <img src="https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=steam&logoColor=white" alt="Guardians Game"/>
+  </a>
+</div>
 
-## 🌐 Let’s Connect  
-- 💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-- 🌍 Portfolio coming soon 
 
-<br/>
+- 🌍 **[GAIA LAB]**  
+  Android app for environmental data · *Jetpack Compose · REST API · Clean UI*   
+![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)
+  
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJaegerPena&theme=github_dark)
+- 🌿 **[Plantastic](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)**  
+  iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*  
+  [![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)
+
+
+  
+- ✈️ **[Vaya Travel](https://github.com/AlexJaegerPena/Vaya-Case-Study)**  
+  Travel app concept & UX prototype · *SwiftUI · Design-first approach*  
+ [![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-1ABC9C?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study)
+
+- 🎮 **[Guardians of the Galaxy RPG](https://github.com/AlexJaegerPena/RPG-Console-Game)**  
+  Console-based game · *Core logic, storytelling & design balance*  
+  [![Guardians Game](https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/RPG-Console-Game)
+
+  
+---
+
+### 🌐 Connect
+
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
+- Portfolio coming soon
+
+---
+
+<div align="center">
+  
+  ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJaegerPena&theme=github_dark)
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJaegerPena&theme=github_dark)
+</div>
+
 
