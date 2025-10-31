@@ -58,6 +58,8 @@ I love creating interfaces that feel natural, intuitive, and visually consistent
 
 ✈️ Travel app concept & UX prototype · *SwiftUI · Design-first approach*  
 
+<img src="https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a" width="400" alt="Projektbild"/>
+
 
    </br></br>
  
