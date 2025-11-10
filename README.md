@@ -58,7 +58,7 @@ Xcode · Android Studio · Firebase · GitHub · Postman
    </br></br>
 
 
-[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=leaflet&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
+[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
 🌿 iOS app for plant care · *SwiftUI · API integration · Playful & intuitive UI/UX*
 
 <img src="https://github.com/user-attachments/assets/3e0f742e-0e67-4bf8-81ad-64fb647840c9" width="400" alt="Projektbild"/>
