@@ -43,33 +43,29 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 ### 🎨 Selected Projects  
 
    
-![](https://img.shields.io/badge/GAIA%20LAB-2D9CDB?style=for-the-badge&logo=github&logoColor=white)   
-🌍 Android app for environmental awareness · *Jetpack Compose · REST API · Gamified UX*   
- 
-   </br></br>
+[**GAIA LAB**](https://github.com/AlexJaegerPena/GAIA-LAB)  
+🌍 Android app for environmental awareness · *Jetpack Compose · REST API · Gamified UX*  
 
+</br></br>
 
-[![Plantastic](https://img.shields.io/badge/Plantastic-6AAA64?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
-🌿 iOS plant care app · *SwiftUI · API integration · Intuitive UI/UX*
+[**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
+🌿 iOS plant care app · *SwiftUI · API integration · Intuitive UI/UX*  
 
 <img src="https://github.com/user-attachments/assets/3e0f742e-0e67-4bf8-81ad-64fb647840c9" width="400" alt="Projektbild"/>
 
-   </br></br>
+</br></br>
 
-   
-[![Vaya Travel](https://img.shields.io/badge/Vaya%20Travel-339999?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/Vaya-Case-Study)   
+[**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
 ✈️ Travel app concept & UX prototype · *Interactive Figma prototype · Design-first approach*  
 
 <img src="https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a" width="400" alt="Projektbild"/>
 
-   </br></br>
-   
- 
-[![Guardians Game](https://img.shields.io/badge/Guardians%20Game-9B51E0?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AlexJaegerPena/RPG-Console-Game)   
+</br></br>
+
+[**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
 🎮 Console-based RPG game · *Core logic · Storytelling · Design balance*  
 
-<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="400" alt="Bildschirmfoto 2025-07-09 um 23 58 33" />
-
+<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="400" alt="Bildschirmfoto 2025-07-09 um 23 58 33"/>
   
 ---
 
