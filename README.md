@@ -4,7 +4,7 @@ I’m a motivated mobile app developer who loves turning ideas into real apps.
 
 Before I started coding, I was already curious about how technology works.
 I liked exploring things, learning by doing, and creating something from nothing.
-What started as curiosity is now my passion.
+That natural curiosity and technical mindset eventually set me on the path I’m on today.
 
 After a few detours and explorations, I found my sweet spot: mobile-first software development.
 Right now, I’m sharpening my skills at Syntax Institut (2024–2025), building full-stack mobile apps for Android (Kotlin & Jetpack Compose) and iOS (SwiftUI).
