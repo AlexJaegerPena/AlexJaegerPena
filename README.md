@@ -43,7 +43,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 ### 🎨 Selected Projects  
 
    
-[**GAIA LAB**](https://github.com/AlexJaegerPena/GAIA-LAB)  
+[**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
 🌍 Android app for environmental awareness · *Jetpack Compose · REST API · Gamified UX*  
 
 </br></br>
