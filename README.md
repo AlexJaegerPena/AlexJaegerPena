@@ -74,13 +74,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 - [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
 - Currently working on my Portfolio
 
----
 
-<div align="center">
-  
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=AlexJaegerPena&theme=github_dark)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AlexJaegerPena&theme=github_dark)
-</div>
 
 
