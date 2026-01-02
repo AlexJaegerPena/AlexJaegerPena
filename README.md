@@ -76,7 +76,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 ### 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/alex-jäger-peña)
-- 🌐 [appsbyalex.com](https://www.appsbyalex.com)
+- 🌐 [Portfolio](https://www.appsbyalex.com)
 
 
 
