@@ -1,4 +1,4 @@
-## Hi, I'm Alex <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> 
+## Hi, I'm Alex 👋
 
 I’m a motivated mobile app developer who loves turning ideas into real apps.
 
@@ -16,27 +16,29 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ### 🚀 What Drives Me 
 
-- Curiosity that keeps me experimenting
-- Writing clean, reliable code
-- Paying attention to intuitive design & details
-- Enjoy collaborating and sharing ideas
-- Bonus: Native German, native Spanish & fluent English
+- 🛠️ A lifelong curiosity for tech and design
+- 🧩 A mind wired for structure, logic, and creativity
+- ✨ Building software that feels intuitive and enjoyable
+- 🤝 Enjoy collaborating and sharing ideas
+- 🌍 Bonus: Native German, Fluent English & Spanish
 
 ---
 
 ### 🧠 Core Skills
 
-- Languages: Swift · SwiftUI · Kotlin · Jetpack Compose   
-- Design: UX/UI · Prototyping · Figma   
-- Architecture: MVVM · Clean Architecture · REST APIs   
-- Tools: Xcode · Android Studio · Firebase · Git · Postman   
+- **Mobile Development** → _Swift · SwiftUI · Kotlin · Jetpack Compose_ 
+- **Architecture** → _MVVM · Clean Architecture · REST APIs_
+- **Design & UX** → _UX/UI Design · Prototyping · Figma_
+- **Tools** → _Xcode · Android Studio · Firebase · Git · Postman_
 
 <div align="center">
-<img src="https://img.shields.io/badge/Swift-000000?style=for-the-badge&logo=swift&logoColor=white" title="Swift"/>
-<img src="https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=apple&logoColor=white" title="SwiftUI"/>
-<img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white" title="Kotlin"/>
-<img src="https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=android&logoColor=white" title="Jetpack Compose"/>
+  <img src="https://img.shields.io/badge/Swift-E76F51?style=for-the-badge&logo=swift&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SwiftUI-2F80ED?style=for-the-badge&logo=apple&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kotlin-6A4C93?style=for-the-badge&logo=kotlin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Jetpack%20Compose-2E7D32?style=for-the-badge&logo=android&logoColor=white"/>
 </div>
+
+
 
 ---
 
@@ -46,33 +48,35 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
 🌍 Android app for environmental awareness · *Jetpack Compose · REST API · Gamified UX*  
 
+<img src="https://github.com/user-attachments/assets/8b872b03-0dbb-4b13-a9e0-51b55c64892d" width="450" alt="Projektbild"/>
+
 </br></br>
 
 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
 🌿 iOS plant care app · *SwiftUI · API integration · Intuitive UI/UX*  
 
-<img src="https://github.com/user-attachments/assets/3e0f742e-0e67-4bf8-81ad-64fb647840c9" width="400" alt="Projektbild"/>
+<img src="https://github.com/user-attachments/assets/3e0f742e-0e67-4bf8-81ad-64fb647840c9" width="450" alt="Projektbild"/>
 
 </br></br>
 
 [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
 ✈️ Travel app concept & UX prototype · *Interactive Figma prototype · Design-first approach*  
 
-<img src="https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a" width="400" alt="Projektbild"/>
+<img src="https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a" width="450" alt="Projektbild"/>
 
 </br></br>
 
 [**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
 🎮 Console-based RPG game · *Core logic · Storytelling · Design balance*  
 
-<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="400" alt="Bildschirmfoto 2025-07-09 um 23 58 33"/>
+<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="450" alt="Projektbild"/>
   
 ---
 
-### 🌐 Let's Connect
+### 📫 Let's Connect
 
-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/your-profile)  
-- Currently working on my Portfolio
+- 💼 [LinkedIn](www.linkedin.com/in/alex-jäger-peña)
+- 🌐 [Portfolio coming soon](www.appsbyalex.com)
 
 
 
