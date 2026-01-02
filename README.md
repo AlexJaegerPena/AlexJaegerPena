@@ -16,7 +16,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ### 🚀 What Drives Me 
 
-- 🛠️ A lifelong curiosity for tech and design
+- 💡 A lifelong curiosity for tech and design
 - 🧩 A mind wired for structure, logic, and creativity
 - ✨ Building software that feels intuitive and enjoyable
 - 🤝 Enjoy collaborating and sharing ideas
@@ -24,7 +24,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ---
 
-### 🧠 Core Skills
+### 🛠️ Core Skills
 
 - **Mobile Development** → _Swift · SwiftUI · Kotlin · Jetpack Compose_ 
 - **Architecture** → _MVVM · Clean Architecture · REST APIs_
