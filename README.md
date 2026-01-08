@@ -1,4 +1,16 @@
 ## Hi, I'm Alex 👋
+<p align="left">
+  <a href="https://www.linkedin.com/in/alex-jäger-peña">
+    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-3B82F6?style=for-the-badge" />
+  </a>
+  &nbsp;
+  <a href="https://www.appsbyalex.com">
+    <img src="https://img.shields.io/badge/View%20Portfolio-0EA5A4?style=for-the-badge" />
+  </a>
+</p>
+
+
+
 
 I’m a motivated mobile app developer who loves turning ideas into real apps.
 
@@ -74,10 +86,10 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 ---
 
 ### 📫 Let's Connect
+If you’d like to chat about mobile apps, UX, or potential collaborations,
+feel free to reach out on LinkedIn or take a look at my portfolio.
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-jäger-peña)
-- 🌐 [Portfolio](https://www.appsbyalex.com)
-
+<img src="https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=8B5CF6&style=for-the-badge" />
 
 
 
