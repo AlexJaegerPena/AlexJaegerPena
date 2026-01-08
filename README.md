@@ -43,7 +43,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 - **Design & UX** → _UX/UI Design · Prototyping · Figma_
 - **Tools** → _Xcode · Android Studio · Firebase · Git · Postman_
 
-<div align="center">
+<div align="left">
   <img src="https://img.shields.io/badge/Swift-E76F51?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/SwiftUI-2F80ED?style=for-the-badge&logo=apple&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kotlin-6A4C93?style=for-the-badge&logo=kotlin&logoColor=white"/>
