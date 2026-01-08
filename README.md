@@ -36,7 +36,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ---
 
-### 🛠️ Core Skills
+### 🛠️ Tech Stack
 
 - **Mobile Development** → _Swift · SwiftUI · Kotlin · Jetpack Compose_ 
 - **Architecture** → _MVVM · Clean Architecture · REST APIs_
