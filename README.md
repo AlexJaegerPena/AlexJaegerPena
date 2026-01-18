@@ -58,22 +58,22 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
    
 - [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
-  🌍 Native Android app for exploring environmental topics in a virtual lab. *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
+  🌍 Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
 
 
 
 - [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
-  🌿 Native iOS plant care app with smart watering reminders. *SwiftUI · MVVM · Firebase · REST API*
+  🌿 Native iOS plant care app with smart watering reminders · *SwiftUI · MVVM · Firebase · REST API*
 
 
 
 - [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
-  ✈️ Travel app concept & UX prototype · *Interactive Figma prototype · User research · UX/UI · Wireframes · Prototyping · Mobile App Concept*
+  ✈️ Travel app concept & UX prototype · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
 
 
 
 - [**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
-  🎮 Console-style RPG built with Swift, focusing on game logic, state handling and object-oriented character design. *Swift · OOP · Game Logic*
+  🎮 Console-style RPG built with Swift, focusing on game logic, state handling and object-oriented design · *Swift · OOP · Game Logic*
   
 ---
 
