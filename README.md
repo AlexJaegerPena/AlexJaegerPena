@@ -57,31 +57,23 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 ### 🎨 Selected Projects  
 
    
-[**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
-🌍 Native Android app for exploring environmental topics in a virtual lab. *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
+- [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
+  🌍 Native Android app for exploring environmental topics in a virtual lab. *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
 
-<img src="https://github.com/user-attachments/assets/8b872b03-0dbb-4b13-a9e0-51b55c64892d" width="350" alt="Projektbild"/>
 
-</br></br>
 
-[**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
-🌿 Native iOS plant care app with smart watering reminders. *SwiftUI · MVVM · Firebase · REST API*
+- [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
+  🌿 Native iOS plant care app with smart watering reminders. *SwiftUI · MVVM · Firebase · REST API*
 
-<img src="https://github.com/user-attachments/assets/3e0f742e-0e67-4bf8-81ad-64fb647840c9" width="350" alt="Projektbild"/>
 
-</br></br>
 
-[**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
-✈️ Travel app concept & UX prototype · *Interactive Figma prototype · User research · UX/UI · Wireframes · Prototyping · Mobile App Concept*
+- [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
+  ✈️ Travel app concept & UX prototype · *Interactive Figma prototype · User research · UX/UI · Wireframes · Prototyping · Mobile App Concept*
 
-<img src="https://github.com/user-attachments/assets/b4d48b60-a9a1-4977-9e8a-787f624a937a" width="350" alt="Projektbild"/>
 
-</br></br>
 
-[**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
-🎮 Console-style RPG built with Swift, focusing on game logic, state handling and object-oriented character design. *Swift · OOP · Game Logic*
-
-<img src="https://github.com/user-attachments/assets/04075017-c18d-41c3-8f1f-3e89315b6f0c" width="350" alt="Projektbild"/>
+- [**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
+  🎮 Console-style RPG built with Swift, focusing on game logic, state handling and object-oriented character design. *Swift · OOP · Game Logic*
   
 ---
 
