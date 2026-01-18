@@ -58,7 +58,7 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
    
 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
-🌍 Android app for exploring environmental topics in a virtual lab. *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
+🌍 Native Android app for exploring environmental topics in a virtual lab. *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
 
 <img src="https://github.com/user-attachments/assets/8b872b03-0dbb-4b13-a9e0-51b55c64892d" width="350" alt="Projektbild"/>
 
