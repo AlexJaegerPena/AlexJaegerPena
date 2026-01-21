@@ -36,21 +36,18 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ---
 
-### 🛠️ Tech Stack
+### 🛠️ Tech Stack & Tools
 
-- **Mobile Development** → _Swift · SwiftUI · Kotlin · Jetpack Compose_ 
-- **Architecture** → _MVVM · Clean Architecture · REST APIs_
-- **Design & UX** → _UX/UI Design · Prototyping · Figma_
-- **Tools** → _Xcode · Android Studio · Firebase · Git · Postman_
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=swift,kotlin,figma,firebase,git,androidstudio,apple,android" />
+  </a>
+</p>
 
-<div align="left">
-  <img src="https://img.shields.io/badge/Swift-E76F51?style=for-the-badge&logo=swift&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SwiftUI-2F80ED?style=for-the-badge&logo=apple&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-6A4C93?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Jetpack%20Compose-2E7D32?style=for-the-badge&logo=android&logoColor=white"/>
-</div>
-
-
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-000000?style=for-the-badge&logo=affinitydesigner&logoColor=white)
 
 ---
 
