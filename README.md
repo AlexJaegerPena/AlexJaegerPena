@@ -63,6 +63,9 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
   🌿 Native iOS plant care app with smart watering reminders · *SwiftUI · MVVM · Firebase · REST API*
 
 
+- [**The Met - Companion App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject)  
+  🎨 Native Android team project for exploring The Met’s collection. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
+
 
 - [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
   ✈️ Travel app concept & UX prototype · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
