@@ -53,7 +53,7 @@ Currently deepening my computer science foundations through Harvard’s CS50.
 
 - 🌿 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy) - Native iOS plant care app with watering reminders · *SwiftUI · MVVM · Firebase · REST API*
 
-- 🎨 [**Museum App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
+- 🎨 [**Museum App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
 
 - ✈️ [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study) - Travel app case study · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
 
