@@ -39,19 +39,15 @@ I care deeply about clean structure, thoughtful UI decisions, and continuously i
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2B2B2B?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
 ![Android](https://img.shields.io/badge/Android-2B2B2B?style=for-the-badge&logo=android&logoColor=3DDC84)
 ![iOS](https://img.shields.io/badge/iOS-2B2B2B?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-
 ![MVVM](https://img.shields.io/badge/MVVM-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
 ![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
 ![REST API](https://img.shields.io/badge/REST%20API-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
 ![Firebase](https://img.shields.io/badge/Firebase-2B2B2B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-
 ![Xcode](https://img.shields.io/badge/Xcode-2B2B2B?style=for-the-badge&logo=xcode&logoColor=147EFB)
 ![Android Studio](https://img.shields.io/badge/Android%20Studio-2B2B2B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
 ![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=FFFFFF)
 ![Postman](https://img.shields.io/badge/Postman-2B2B2B?style=for-the-badge&logo=postman&logoColor=FF6C37)
-
-
 ![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-2B2B2B?style=for-the-badge&logo=affinitydesigner&logoColor=7E4DD2)
 
