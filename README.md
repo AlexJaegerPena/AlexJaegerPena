@@ -1,13 +1,15 @@
 ## Hi, I'm Alex 👋
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-jäger-peña">
-    <img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-3B82F6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Let's%20Connect-1F2937?style=for-the-badge&logoColor=2B2B2B" />
   </a>
-  &nbsp;
+  &nbsp;&nbsp;
   <a href="https://www.appsbyalex.com">
-    <img src="https://img.shields.io/badge/View%20Portfolio-0EA5A4?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/See%20My%20Portfolio-1F2937?style=for-the-badge&logoColor=2B2B2B" />
   </a>
 </p>
+
+
 
 
 
@@ -33,23 +35,23 @@ I care deeply about clean structure, thoughtful UI decisions, and continuously i
 
 ### Tech Stack & Tools
 
-![Swift](https://img.shields.io/badge/Swift-2B2B2B?style=for-the-badge&logo=swift&logoColor=FA7343)
-![Kotlin](https://img.shields.io/badge/Kotlin-2B2B2B?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
-![SwiftUI](https://img.shields.io/badge/SwiftUI-2B2B2B?style=for-the-badge&logo=swift&logoColor=FA7343)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2B2B2B?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
-![Android](https://img.shields.io/badge/Android-2B2B2B?style=for-the-badge&logo=android&logoColor=3DDC84)
-![iOS](https://img.shields.io/badge/iOS-2B2B2B?style=for-the-badge&logo=apple&logoColor=FFFFFF)
-![MVVM](https://img.shields.io/badge/MVVM-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
-![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
-![REST API](https://img.shields.io/badge/REST%20API-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
-![Firebase](https://img.shields.io/badge/Firebase-2B2B2B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
-![Xcode](https://img.shields.io/badge/Xcode-2B2B2B?style=for-the-badge&logo=xcode&logoColor=147EFB)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-2B2B2B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
-![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
-![GitHub](https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=FFFFFF)
-![Postman](https://img.shields.io/badge/Postman-2B2B2B?style=for-the-badge&logo=postman&logoColor=FF6C37)
-![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=F24E1E)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-2B2B2B?style=for-the-badge&logo=affinitydesigner&logoColor=7E4DD2)
+![Swift](https://img.shields.io/badge/Swift-1F2937?style=for-the-badge&logo=swift&logoColor=FA7343)
+![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-1F2937?style=for-the-badge&logo=swift&logoColor=FA7343)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-1F2937?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![Android](https://img.shields.io/badge/Android-1F2937?style=for-the-badge&logo=android&logoColor=3DDC84)
+![iOS](https://img.shields.io/badge/iOS-1F2937?style=for-the-badge&logo=apple&logoColor=FFFFFF)
+![MVVM](https://img.shields.io/badge/MVVM-1F2937?style=for-the-badge&logoColor=FFFFFF)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-1F2937?style=for-the-badge&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-1F2937?style=for-the-badge&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-1F2937?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Xcode](https://img.shields.io/badge/Xcode-1F2937?style=for-the-badge&logo=xcode&logoColor=147EFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-1F2937?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-1F2937?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-1F2937?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-1F2937?style=for-the-badge&logo=postman&logoColor=FF6C37)
+![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1F2937?style=for-the-badge&logo=affinitydesigner&logoColor=7E4DD2)
 
 
 
@@ -75,7 +77,7 @@ I care deeply about clean structure, thoughtful UI decisions, and continuously i
 If you’d like to chat about mobile apps, UX, or potential collaborations,
 feel free to reach out on LinkedIn or take a look at my portfolio.
 
-<img src="https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=8B5CF6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=1F2937&style=for-the-badge" />
 
 
 
