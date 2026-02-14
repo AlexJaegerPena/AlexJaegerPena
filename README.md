@@ -11,22 +11,17 @@
 
 
 
+I build mobile apps with a strong focus on clarity and user experience.
 
-I’m a motivated mobile app developer who loves turning ideas into real apps.
+Long before I started coding, I was curious about how technology works, exploring, experimenting, and learning by building things from scratch. That mindset naturally led me into software development, where I now work with Swift, Kotlin, and modern app architectures.
 
-Before I started coding, I was already curious about how technology works.
-I liked exploring things, learning by doing, and creating something from nothing.
-That natural curiosity and technical mindset eventually set me on the path I’m on today.
+I care deeply about clean structure, thoughtful UI decisions, and continuously improving with every project I build.
 
-After a few detours and explorations, I found my sweet spot: mobile-first software development.
-Right now, I’m sharpening my skills at Syntax Institut (2024–2025), building full-stack mobile apps for Android (Kotlin & Jetpack Compose) and iOS (SwiftUI).
-
-I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that people enjoy using.
 
 
 ---
 
-### 🚀 What Drives Me 
+### What Drives Me 
 
 - 💡 A lifelong curiosity for tech and design
 - 🧩 A mind wired for structure, logic, and creativity
@@ -36,48 +31,51 @@ I enjoy creating apps that feel smooth, intuitive, and visually clean. Apps that
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### Tech Stack & Tools
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=swift,kotlin,figma,firebase,git,androidstudio,apple,android" />
-  </a>
-</p>
+![Swift](https://img.shields.io/badge/Swift-2B2B2B?style=for-the-badge&logo=swift&logoColor=FA7343)
+![Kotlin](https://img.shields.io/badge/Kotlin-2B2B2B?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-2B2B2B?style=for-the-badge&logo=swift&logoColor=FA7343)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-2B2B2B?style=for-the-badge&logo=jetpackcompose&logoColor=4285F4)
+![Android](https://img.shields.io/badge/Android-2B2B2B?style=for-the-badge&logo=android&logoColor=3DDC84)
+![iOS](https://img.shields.io/badge/iOS-2B2B2B?style=for-the-badge&logo=apple&logoColor=FFFFFF)
 
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=for-the-badge&logo=swift&logoColor=white)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-000000?style=for-the-badge&logo=jetpackcompose&logoColor=white)
-![Xcode](https://img.shields.io/badge/Xcode-000000?style=for-the-badge&logo=xcode&logoColor=white)
-![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-000000?style=for-the-badge&logo=affinitydesigner&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
+![Clean Architecture](https://img.shields.io/badge/Clean%20Architecture-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
+![REST API](https://img.shields.io/badge/REST%20API-2B2B2B?style=for-the-badge&logoColor=FFFFFF)
+![Firebase](https://img.shields.io/badge/Firebase-2B2B2B?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+
+![Xcode](https://img.shields.io/badge/Xcode-2B2B2B?style=for-the-badge&logo=xcode&logoColor=147EFB)
+![Android Studio](https://img.shields.io/badge/Android%20Studio-2B2B2B?style=for-the-badge&logo=androidstudio&logoColor=3DDC84)
+![Git](https://img.shields.io/badge/Git-2B2B2B?style=for-the-badge&logo=git&logoColor=F05032)
+![GitHub](https://img.shields.io/badge/GitHub-2B2B2B?style=for-the-badge&logo=github&logoColor=FFFFFF)
+![Postman](https://img.shields.io/badge/Postman-2B2B2B?style=for-the-badge&logo=postman&logoColor=FF6C37)
+
+
+![Figma](https://img.shields.io/badge/Figma-2B2B2B?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-2B2B2B?style=for-the-badge&logo=affinitydesigner&logoColor=7E4DD2)
+
+
+
 
 ---
 
 ### 🎨 Selected Projects  
 
    
-- [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab)  
-  🌍 Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
+- 🌍 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab) - Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
 
+- 🌿 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy) - Native iOS plant care app with smart watering reminders · *SwiftUI · MVVM · Firebase · REST API*
 
+- 🎨 [**Museum App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met’s collection. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
 
-- [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)  
-  🌿 Native iOS plant care app with smart watering reminders · *SwiftUI · MVVM · Firebase · REST API*
+- ✈️ [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study) - Travel app concept & UX prototype · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
 
-
-- [**The Met - Companion App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject)  
-  🎨 Native Android team project for exploring The Met’s collection. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
-
-
-- [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study)  
-  ✈️ Travel app concept & UX prototype · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
-
-
-
-- [**Guardians Game**](https://github.com/AlexJaegerPena/RPG-Console-Game)  
-  🎮 Console-style RPG built with Swift, focusing on game logic, state handling and object-oriented design · *Swift · OOP · Game Logic*
+-  🎮 [**Guardians RPG**](https://github.com/AlexJaegerPena/RPG-Console-Game) - Console-style RPG, focus on game logic, state handling and object-oriented design · *Swift · OOP · Game Logic*
   
 ---
 
-### 📫 Let's Connect
+### Let's Connect
 If you’d like to chat about mobile apps, UX, or potential collaborations,
 feel free to reach out on LinkedIn or take a look at my portfolio.
 
