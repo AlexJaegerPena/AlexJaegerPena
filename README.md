@@ -6,6 +6,7 @@ Long before I started coding, I was curious about how technology works, explorin
 
 I care deeply about clean structure, thoughtful UI decisions, and continuously improving with every project I build.
 
+Currently deepening my computer science foundations through Harvard’s CS50.
 
 
 ---
