@@ -65,7 +65,7 @@ I care deeply about clean structure, thoughtful UI decisions, and continuously i
 
 - 🎨 [**Museum App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
 
-- ✈️ [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study) - Travel app concept & UX prototype · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
+- ✈️ [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study) - Travel app case study · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
 
 -  🎮 [**Guardians RPG**](https://github.com/AlexJaegerPena/RPG-Console-Game) - Console-style RPG, focus on game logic, state handling and object-oriented design · *Swift · OOP · Game Logic*
   
