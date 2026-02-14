@@ -51,7 +51,7 @@ Currently deepening my computer science foundations through Harvard’s CS50.
    
 - 🌍 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab) - Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
 
-- 🌿 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy) - Native iOS plant care app with smart watering reminders · *SwiftUI · MVVM · Firebase · REST API*
+- 🌿 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy) - Native iOS plant care app with watering reminders · *SwiftUI · MVVM · Firebase · REST API*
 
 - 🎨 [**Museum App**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met. · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
 
