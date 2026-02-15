@@ -66,7 +66,7 @@ If you’d like to chat about mobile apps, UX, or potential collaborations,
 feel free to reach out on LinkedIn or take a look at my portfolio.
 <p align="left">
   <a href="https://www.linkedin.com/in/alex-jäger-peña">
-    <img src="https://img.shields.io/badge/Let's%20Connect-1F2937?style=for-the-badge&logoColor=2B2B2B" />
+    <img src="https://img.shields.io/badge/Linkedin-1F2937?style=for-the-badge&logoColor=2B2B2B" />
   </a>
   &nbsp;&nbsp;
   <a href="https://www.appsbyalex.com">
