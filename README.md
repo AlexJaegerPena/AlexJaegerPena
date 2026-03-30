@@ -1,23 +1,21 @@
 ## Hi, I'm Alex 👋
 
-I build mobile apps with a strong focus on clarity and user experience.
+Driven by early curiosity for technology, I started by building and experimenting from scratch. Today, I develop apps using Swift, Kotlin, and modern architectures.
 
-Long before I started coding, I was curious about how technology works, exploring, experimenting, and learning by building things from scratch. That mindset naturally led me into software development, where I now work with Swift, Kotlin, and modern app architectures.
+Focused on clean structure, thoughtful UI, and continuous improvement.
 
-I care deeply about clean structure, thoughtful UI decisions, and continuously improving with every project I build.
-
-Currently deepening my computer science foundations through Harvard’s CS50.
+Currently building apps while deepening my computer science foundations through Harvard’s CS50.
 
 
 ---
 
-### What Drives Me 
+### Mindset
 
-- 💡 A lifelong curiosity for tech and design
-- 🧩 A mind wired for structure, logic, and creativity
-- ✨ Building software that feels intuitive and enjoyable
-- 🤝 Enjoy collaborating and sharing ideas
-- 🌍 Bonus: Native German, Fluent English & Spanish
+- 💡 Lifelong curiosity and a passion for learning and exploring
+- 🧩 Structured thinking with a focus on logic and creativity
+- ✨ Building intuitive and enjoyable software
+- 🤝 Enjoy collaborating and exchanging ideas
+- 🌍 Native German and Spanish, fluent in English
 
 ---
 
@@ -46,7 +44,7 @@ Currently deepening my computer science foundations through Harvard’s CS50.
 
 ---
 
-### 🎨 Selected Projects  
+### Selected Projects  
 
    
 - 🌍 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab) - Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
