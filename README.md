@@ -1,25 +1,22 @@
-## Hi, I'm Alex 👋
+## Hi, I'm Alex 👋🏽
 
-Driven by early curiosity for technology, I started by building and experimenting from scratch. Today, I develop apps using Swift, Kotlin, and modern architectures.
+_I build mobile apps for iOS and Android and I care a lot about getting
+the details right. Started by taking things apart to understand how they
+work. Still do._
 
-Focused on clean structure, thoughtful UI, and continuous improvement.
+_Growing up between cultures taught me to see things from more than one angle and that shapes how I build and how I collaborate._
 
-Currently building apps while deepening my computer science foundations through Harvard’s CS50.
+_I like working with people who care about the craft. Clean architecture, thoughtful UI, or just not cutting corners._
 
+_Currently deepening my CS foundations through Harvard's CS50, because I
+want to understand what's happening under the hood, not just ship features._
 
----
+_Native German and Spanish. Fluent in English. Based in Germany._
 
-### Mindset
-
-- 💡 Lifelong curiosity and a passion for learning and exploring
-- 🧩 Structured thinking with a focus on logic and creativity
-- ✨ Building intuitive and enjoyable software
-- 🤝 Enjoy collaborating and exchanging ideas
-- 🌍 Native German and Spanish, fluent in English
 
 ---
 
-### Tech Stack & Tools
+### What I work with
 
 ![Swift](https://img.shields.io/badge/Swift-1F2937?style=for-the-badge&logo=swift&logoColor=FA7343)
 ![Kotlin](https://img.shields.io/badge/Kotlin-1F2937?style=for-the-badge&logo=kotlin&logoColor=7F52FF)
@@ -39,41 +36,42 @@ Currently building apps while deepening my computer science foundations through 
 ![Figma](https://img.shields.io/badge/Figma-1F2937?style=for-the-badge&logo=figma&logoColor=F24E1E)
 ![Affinity Designer](https://img.shields.io/badge/Affinity%20Designer-1F2937?style=for-the-badge&logo=affinitydesigner&logoColor=7E4DD2)
 
-
-
-
----
-
-### Selected Projects  
-
-   
-- 🌍 [**Gaia Lab**](https://github.com/AlexJaegerPena/GaiaLab) - Native Android app for exploring environmental topics · *Kotlin · Jetpack Compose · MVVM · Firebase · REST API*
-
-- 🌿 [**Plantastic**](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy) - Native iOS plant care app with watering reminders · *SwiftUI · MVVM · Firebase · REST API*
-
-- 🎨 [**Musea**](https://github.com/AlexJaegerPena/ArtApp-GroupProject) - Native Android app for exploring The Met Museum · *Kotlin · Jetpack Compose · MVVM · Room · REST API*
-
-- ✈️ [**Vaya Travel**](https://github.com/AlexJaegerPena/Vaya-Case-Study) - Travel app case study · *Figma · User research · UX/UI · Interactive Prototype · Mobile App Concept*
-
--  🎮 [**Guardians RPG**](https://github.com/AlexJaegerPena/RPG-Console-Game) - Console-based RPG · *Swift · OOP · State Management · Combat Logic*
   
 ---
 
-### Let's Connect
-If you’d like to chat about mobile apps, UX, or potential collaborations,
-feel free to reach out on LinkedIn or take a look at my portfolio.
-<p align="left">
-  <a href="https://www.linkedin.com/in/alex-jäger-peña">
-    <img src="https://img.shields.io/badge/Linkedin-1F2937?style=for-the-badge&logoColor=2B2B2B" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.appsbyalex.com">
-    <img src="https://img.shields.io/badge/See%20My%20Portfolio-1F2937?style=for-the-badge&logoColor=2B2B2B" />
-  </a>
-</p>
 
-<img src="https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=1F2937&style=for-the-badge" />
+### Projects
+
+**[Musea](https://github.com/AlexJaegerPena/ArtApp-GroupProject)**<br>
+Android app for browsing The Met Museum – group project, coming to the App Store soon.<br>
+`Kotlin` `Jetpack Compose` `Room`
+
+**[Gaia Lab](https://github.com/AlexJaegerPena/GaiaLab)**<br>
+Android app for exploring environmental topics – clean architecture under the hood, playful and gamified on the surface.<br>
+`Kotlin` `Jetpack Compose` `MVVM` `Firebase`
+
+**[Plantastic](https://github.com/AlexJaegerPena/Plantastic-PlantBuddy)**<br>
+iOS plant care app with watering reminders – my first real SwiftUI project, and the one that made me want to build more.<br>
+`SwiftUI` `MVVM` `Firebase`
+
+**[Vaya Travel](https://github.com/AlexJaegerPena/Vaya-Case-Study)**<br>
+Travel app concept – UX research, prototyping, the full design process before a single line of code.<br>
+`Figma` `UX Research` `Prototyping`
+
+**[Guardians RPG](https://github.com/AlexJaegerPena/RPG-Console-Game)**<br>
+Console RPG in Swift – built to get a feel for OOP and state management without the distraction of a UI.<br>
+`Swift` `OOP`
 
 
+---
 
 
+### Let's connect
+
+If you want to talk about mobile apps, UX, or working together - I'm around.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-C5F466?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex-jäger-peña)
+&nbsp;
+[![Portfolio](https://img.shields.io/badge/See%20My%20Portfolio-C5F466?style=for-the-badge&logoColor=white)](https://www.appsbyalex.com)
+
+![Views](https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=1F2937&style=for-the-badge)
