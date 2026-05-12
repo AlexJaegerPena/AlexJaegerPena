@@ -75,3 +75,7 @@ If you want to talk about mobile apps, UX, or working together - I'm around.
 [![Portfolio](https://img.shields.io/badge/See%20My%20Portfolio-C5F466?style=for-the-badge&logoColor=white)](https://www.appsbyalex.com)
 
 ![Views](https://komarev.com/ghpvc/?username=AlexJaegerPena&label=Views&color=1F2937&style=for-the-badge)
+
+
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=AlexJaegerPena&theme=dark&background=000000)](https://git.io/streak-stats)
